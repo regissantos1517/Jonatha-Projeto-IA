@@ -1,3 +1,4 @@
+[![Node.js CI](https://github.com/regissantos1517/Projeto-IA/actions/workflows/workflow.yml/badge.svg)](https://github.com/regissantos1517/Projeto-IA/actions/workflows/workflow.yml)
 IA na Prática: Acelerando o Desenvolvimento e Garantindo a Qualidade 
 
 ## 1. Análise do Problema (Empresa Simulada) A organização em estudo atua no setor de ferramentas de colaboração online, enfrentando uma fase de crescimento acelerado e pressão constante por novas funcionalidades. O desafio central reside no desequilíbrio entre a agilidade exigida pelo mercado e a estabilidade técnica do software.
