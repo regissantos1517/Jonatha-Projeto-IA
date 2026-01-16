@@ -9,5 +9,6 @@ test('Deve aplicar 10% de desconto para 6 usuários', () => {
 });
 
 test('Deve aplicar 20% de desconto para 12 usuários', () => {
-    expect(calculateAssinatura(12)).toBe(480);
+    // Corrigido: era calculateAssinatura, agora é calcularAssinatura
+    expect(calcularAssinatura(12)).toBe(480);
 });
